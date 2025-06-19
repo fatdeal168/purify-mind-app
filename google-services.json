@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167349214727",
+    "project_id": "purify-mind-app",
+    "storage_bucket": "purify-mind-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167349214727:android:c249ac23f1ff884255d4a2",
+        "android_client_info": {
+          "package_name": "com.purifymind.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWasBHNUSv87_pzdRYZMFXckf57d4nBOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
